@@ -1,0 +1,72 @@
+	train_loss: 1.63
+	costing time: 5777.09
+	eval score: 42.05 
+	current best eval score: 42.05 
+	train_loss: 1.44
+	costing time: 5699.62
+	eval score: 48.27 
+	current best eval score: 48.27 
+	train_loss: 1.31
+	costing time: 5762.29
+	eval score: 52.85 
+	current best eval score: 52.85 
+	train_loss: 1.20
+	costing time: 5811.83
+	eval score: 57.34 
+	current best eval score: 57.34 
+	train_loss: 1.11
+	costing time: 5906.31
+	eval score: 60.60 
+	current best eval score: 60.60 
+	train_loss: 1.04
+	costing time: 6601.89
+	eval score: 61.84 
+	current best eval score: 61.84 
+	train_loss: 0.99
+	costing time: 6224.74
+	eval score: 63.50 
+	current best eval score: 63.50 
+	train_loss: 0.95
+	costing time: 5802.71
+	eval score: 64.69 
+	current best eval score: 64.69 
+	train_loss: 0.91
+	costing time: 5700.97
+	eval score: 67.24 
+	current best eval score: 67.24 
+	train_loss: 0.88
+	costing time: 5714.08
+	eval score: 67.70 
+	current best eval score: 67.70 
+	train_loss: 0.85
+	costing time: 5660.04
+	eval score: 69.74 
+	current best eval score: 69.74 
+	train_loss: 0.83
+	costing time: 5559.73
+	eval score: 69.38 
+	current best eval score: 69.74 
+	train_loss: 0.81
+	costing time: 5606.60
+	eval score: 70.49 
+	current best eval score: 70.49 
+	train_loss: 0.79
+	costing time: 5566.30
+	eval score: 71.29 
+	current best eval score: 71.29 
+	train_loss: 0.77
+	costing time: 5585.95
+	eval score: 71.36 
+	current best eval score: 71.36 
+	train_loss: 0.75
+	costing time: 5643.76
+	eval score: 72.28 
+	current best eval score: 72.28 
+	train_loss: 0.74
+	costing time: 28710.44
+	eval score: 72.92 
+	current best eval score: 72.92 
+	train_loss: 0.73
+	costing time: 32085.31
+	eval score: 73.29 
+	current best eval score: 73.29 

@@ -1,0 +1,46 @@
+{
+    "Is the person holding a phone before putting clothes somewhere?": [
+        "No",
+        "Yes"
+    ],
+    "Is the person holding a phone before putting the first object that they are covered by?": [
+        "No",
+        "Yes"
+    ],
+    "Is the person holding a phone before putting the first object that they are taking?": [
+        "No",
+        "Yes"
+    ],
+    "Is the person holding a phone before putting the object that they are wearing?": [
+        "No",
+        "Yes"
+    ],
+    "Is the person holding a phone before putting the object that they are undressing?": [
+        "No",
+        "Yes"
+    ],
+    "Is the person holding a phone before putting the object that they are throwing?": [
+        "No",
+        "Yes"
+    ],
+    "Is the person holding the object that they are playing on before putting the first object that they are covered by?": [
+        "No",
+        "Yes"
+    ],
+    "Is the person holding the object that they are playing on before putting the first object that they are taking?": [
+        "No",
+        "Yes"
+    ],
+    "Is the person holding the object that they are playing on before putting the object that they are wearing?": [
+        "No",
+        "Yes"
+    ],
+    "Is the person holding the object that they are playing on before putting the object that they are undressing?": [
+        "No",
+        "Yes"
+    ],
+    "Is the person holding the object that they are playing on before putting the object that they are throwing?": [
+        "No",
+        "Yes"
+    ]
+}
